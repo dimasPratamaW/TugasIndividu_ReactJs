@@ -1,5 +1,5 @@
 
-import { Space, Table, Tabs } from 'antd';
+import { Table, Tabs } from 'antd';
 import { useEffect, useState } from 'react';
 import CheckUser from './Check_User';
 import { Post_Data } from './State_Store';
